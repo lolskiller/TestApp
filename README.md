@@ -1,10 +1,16 @@
-# Angular CRUD By [Sotobotero](https://sotobotero.com)
+# Angular CRUD
 
 **Content**   
-1. [Como contribuir con este proyecto](#como-contribuir-con-este-proyecto)
-2. [Como empezar a usar la aplicación](#como-empezar)
-3. [How contribute to this project](#how-contribute-to-this-project)
-4. [Getting Started](#getting-started)
+- [Angular CRUD](#angular-crud)
+  - [Como contribuir con este proyecto.](#como-contribuir-con-este-proyecto)
+  - [Como empezar](#como-empezar)
+    - [Requisitos](#requisitos)
+    - [Instalación](#instalación)
+  - [How contribute to this project.](#how-contribute-to-this-project)
+  - [Getting Started](#getting-started)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+  - [Angular 2+ - Environment Variables](#angular-2---environment-variables)
 
 ## Como contribuir con este proyecto. 
 1. Primero, necesitas hacer un fork del repositorio al que deseas contribuir. Esto creará una copia del repositorio en tu cuenta de GitHub. Puedes hacer un fork de un repositorio haciendo clic en el botón "Fork" en la esquina superior derecha de la página del repositorio. 
@@ -25,7 +31,7 @@
 ## Como empezar
 ### Requisitos
 1. Instalar [Node.js LTS](https://nodejs.org/es/) (v18.16.0) o superior y [Angular CLI](https://cli.angular.io/) (v13) o superior.
-2. Opcional: Clonar e iniciarlizar el backend de la aplicación [customer-back](https://github.com/sotobotero/customer-back), si no se tiene el backend, la aplicación solo cargrá el front pero no tendra conexión a un back.
+2. Opcional: Clonar e iniciarlizar el backend de la aplicación [customer-back](https://github.com/lolskiller/TestApp), si no se tiene el backend, la aplicación solo cargrá el front pero no tendra conexión a un back.
 ### Instalación
 1. Clonar el repositorio
 2. Entrar a la carpeta del proyecto
@@ -55,7 +61,7 @@ La aplicación se recargará automáticamente si se cambia alguno de los archivo
 
 ## Requirements
 1. Install Node.js LTS (v18.16.0) or later and Angular CLI (v13) or later.
-2. Optional: Clone and start the backend of the [customer-back](https://github.com / sotobotero / customer-back) application, if you don't have the backend, the application will only load the front but will have no connection to a backend.
+2. Optional: Clone and start the backend of the [customer-back](https://github.com/lolskiller/TestApp) application, if you don't have the backend, the application will only load the front but will have no connection to a backend.
 
 
 ## Installation
